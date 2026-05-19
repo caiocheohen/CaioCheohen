@@ -10,29 +10,61 @@
 
 ---
 
-<p align="left">
+<div align="center">
 
 <a href="https://www.youtube.com/channel/UCYGRIEqYgVDAq-BBIEYdTzw">
-<img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCYGRIEqYgVDAq-BBIEYdTzw?color=%23E05D44&label=YouTube&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+<img alt="YouTube subscribers"
+title="Subscribe to my YouTube channel"
+src="https://img.shields.io/youtube/channel/subscribers/UCYGRIEqYgVDAq-BBIEYdTzw?style=for-the-badge&logo=youtube&logoColor=white&color=E05D44&labelColor=CE4630"/>
 </a>
 
 <a href="https://www.youtube.com/channel/UCYGRIEqYgVDAq-BBIEYdTzw">
-<img alt="YouTube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCYGRIEqYgVDAq-BBIEYdTzw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+<img alt="YouTube views"
+title="YouTube views"
+src="https://img.shields.io/youtube/channel/views/UCYGRIEqYgVDAq-BBIEYdTzw?style=for-the-badge&logo=youtube&logoColor=white&color=E1AD0E&labelColor=C79600"/>
 </a>
 
 <a href="https://github.com/caiocheohen?tab=followers">
-<img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/caiocheohen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+<img alt="GitHub followers"
+title="Follow me on GitHub"
+src="https://img.shields.io/github/followers/caiocheohen?style=for-the-badge&logo=github&logoColor=white&color=236ad3&labelColor=1155ba&label=Followers"/>
 </a>
 
 <a href="https://github.com/caiocheohen?tab=repositories&sort=stargazers">
-<img alt="GitHub stars" title="GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/caiocheohen?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+<img alt="GitHub stars"
+title="GitHub stars"
+src="https://img.shields.io/github/stars/caiocheohen?style=for-the-badge&logo=star&logoColor=white&color=55960c&labelColor=488207"/>
 </a>
 
-</p>
+<a href="https://komarev.com/ghpvc/?username=caiocheohen">
+<img alt="Profile views"
+title="Profile views"
+src="https://komarev.com/ghpvc/?username=caiocheohen&style=for-the-badge&color=blueviolet"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
 
 <a href="https://www.youtube.com/@cheohen?sub_confirmation=1">
-  <img src="https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+# GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocheohen&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocheohen&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -46,13 +78,21 @@
 
 ---
 
+# About Me
 
-I am a Brazilian bioinformatician and AI researcher with ~10 years of experience in structural bioinformatics, metatranscriptomics, computational biology, and predictive modelling.
+I am a Brazilian bioinformatician and AI researcher with ~10 years of experience in:
+
+- Structural Bioinformatics
+- Metatranscriptomics
+- Computational Biology
+- Predictive Modelling
+- Artificial Intelligence for Biological Systems
 
 Currently, I'm involved in the development of AI-assisted frameworks capable of predicting biological responses under pollutant exposure scenarios, combining transcriptomics, metatranscriptomics, and machine learning approaches.
 
+---
 
-My research background includes:
+# Research Areas
 
 - Metatranscriptomics and microbiome functional profiling
 - Artificial Intelligence applied to biological systems
@@ -64,19 +104,26 @@ My research background includes:
 - Structural bioinformatics, molecular docking, and molecular dynamics
 - Explainable AI and automated biological interpretation
 
-My recent work also includes:
-- AI models for disease severity prediction using deep learning
-- Development of automated scientific analysis pipelines
+---
+
+# Current Interests
+
+- AI models for disease severity prediction
+- Automated scientific analysis pipelines
 - Local LLM integration for biological data interpretation
-- Functional annotation workflows biological databases
+- Functional annotation workflows for biological databases
+- AI-assisted scientific discovery systems
+
+---
+
+# Scientific Vision
 
 I am especially interested in bridging:
+
 - Biology + Artificial Intelligence
 - Omics + Predictive Analytics
 - Environmental Science + Machine Learning
 - Scientific Research + Open Source Development
-
-⚡ Exploring how AI can transform biological discovery.
 
 ---
 
@@ -88,9 +135,10 @@ I am especially interested in bridging:
 - Molecular Docking
 - Molecular Dynamics
 - Multi-omics Integration
+- Predictive Toxicology
+- Explainable AI
 
 ---
-
 
 # Scientific Interests
 
