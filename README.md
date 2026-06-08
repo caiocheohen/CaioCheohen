@@ -128,31 +128,6 @@ I am especially interested in bridging:
 
 ---
 
-# Scientific Interests
-
-- AI for Biology
-- Marine Environmental Genomics
-- Toxicogenomics
-- Explainable AI
-- Functional Microbiome Profiling
-- Environmental Bioinformatics
-- Predictive Omics
-
----
-
-# Open to Collaborations
-
-I’m open to collaborations involving:
-
-- Bioinformatics
-- Artificial Intelligence
-- Multi-omics
-- Scientific Software
-- Computational Biology
-- Environmental Toxicology
-
----
-
 <div align="center">
 
 ### ⚡ Exploring how AI can transform biological discovery
