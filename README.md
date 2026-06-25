@@ -56,22 +56,22 @@ src="https://komarev.com/ghpvc/?username=caiocheohen&style=for-the-badge&color=b
 
 ---
 
-# 📱 Meu App – BioInfoLab
+# 📱 BioInfoLab – My Mobile App
 
 <div align="center">
 
 <a href="https://play.google.com/store/apps/details?id=com.cheohen.bioinfolab">
-  <img src="https://img.shields.io/badge/Google%20Play-Baixar%20agora-brightgreen?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=414141" alt="Get it on Google Play">
+  <img src="https://img.shields.io/badge/Google%20Play-Get%20it%20on%20Google%20Play-brightgreen?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=414141" alt="Get it on Google Play">
 </a>
 
 <br><br>
 
-**BioInfoLab** é um aplicativo mobile que reúne ferramentas práticas e conteúdos educacionais de bioinformática diretamente no seu celular.  
-Ideal para estudantes, pesquisadores e profissionais que desejam acessar conceitos, pipelines e referências rápidas de onde estiverem.
+<!-- App promotional image (QR code is already included in the image) -->
+<img src="bioinfolab%20linkedin.png" alt="BioInfoLab promotional banner" width="85%" />
 
-<a href="https://play.google.com/store/apps/details?id=com.cheohen.bioinfolab">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://play.google.com/store/apps/details?id=com.cheohen.bioinfolab" alt="QR Code para BioInfoLab" />
-</a>
+<br><br>
+
+**BioInfoLab** delivers bioinformatics education at your own pace – featuring a fast and intuitive interface, ideal for students and researchers.
 
 </div>
 
@@ -102,10 +102,10 @@ I am a Brazilian bioinformatician and AI researcher with ~10 years of experience
 - Molecular Dynamics
 - Multi-omics Integration
 
-Currently, I'm involved in the development of AI-assisted frameworks capable of predicting biological responses under pollutant exposure scenarios, combining transcriptomics, metatranscriptomics, and machine learning approaches.
+Currently, I am focused on developing AI-assisted frameworks capable of predicting biological responses under pollutant exposure scenarios, combining transcriptomics, metatranscriptomics, and machine learning approaches.
 
-> 🚀 **Recently, I launched *BioInfoLab* – my first mobile app, now available on Google Play!**  
-> The app brings bioinformatics tools, study guides, and quick reference materials to your pocket, making learning and daily lab work more accessible.  
+> 🚀 **I recently launched *BioInfoLab* – my first mobile app, now available on Google Play!**  
+> The app brings practical bioinformatics tools, study guides, and quick-reference materials directly to your pocket, making learning and daily lab work more accessible.  
 > [Click here to download it](https://play.google.com/store/apps/details?id=com.cheohen.bioinfolab).
 
 ---
