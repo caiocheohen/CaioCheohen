@@ -56,7 +56,7 @@ src="https://komarev.com/ghpvc/?username=caiocheohen&style=for-the-badge&color=b
 
 ---
 
-# 📱 BioInfoLab – My Mobile App
+# BioInfoLab – My Mobile App
 
 <div align="center">
 
@@ -67,7 +67,7 @@ src="https://komarev.com/ghpvc/?username=caiocheohen&style=for-the-badge&color=b
 <br><br>
 
 <!-- App promotional image (QR code is already included in the image) -->
-<img src="bioinfolab%20linkedin.png" alt="BioInfoLab promotional banner" width="85%" />
+<img src="bioinfolab%20linkedin.png" alt="BioInfoLab promotional banner" width="50%" />
 
 <br><br>
 
