@@ -75,58 +75,17 @@ I am a Brazilian bioinformatician and AI researcher with ~10 years of experience
 - Computational Biology
 - Predictive Modelling
 - Artificial Intelligence for Biological Systems
+ - Machine Learning
+- Deep Learning
+- Molecular Docking
+- Molecular Dynamics
+- Multi-omics Integration
+
 
 Currently, I'm involved in the development of AI-assisted frameworks capable of predicting biological responses under pollutant exposure scenarios, combining transcriptomics, metatranscriptomics, and machine learning approaches.
 
 ---
 
-# Research Areas
-
-- Metatranscriptomics and microbiome functional profiling
-- Artificial Intelligence applied to biological systems
-- Marine genomics and environmental toxicology
-- Predictive toxicology and toxicogenomics
-- Host–microbiome interactions
-- Deep learning for omics data analysis
-- Scientific software and pipeline development
-- Structural bioinformatics, molecular docking, and molecular dynamics
-- Explainable AI and automated biological interpretation
-
----
-
-# Current Interests
-
-- AI models for disease severity prediction
-- Automated scientific analysis pipelines
-- Local LLM integration for biological data interpretation
-- Functional annotation workflows for biological databases
-- AI-assisted scientific discovery systems
-
----
-
-# Scientific Vision
-
-I am especially interested in bridging:
-
-- Biology + Artificial Intelligence
-- Omics + Predictive Analytics
-- Environmental Science + Machine Learning
-- Scientific Research + Open Source Development
-
----
-
-# AI & Bioinformatics Stack
-
-- Machine Learning
-- Deep Learning
-- Local LLMs
-- Molecular Docking
-- Molecular Dynamics
-- Multi-omics Integration
-- Predictive Toxicology
-- Explainable AI
-
----
 
 <div align="center">
 
